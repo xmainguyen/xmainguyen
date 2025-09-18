@@ -6,15 +6,28 @@
 
 
 ## About Me
-I'm a Data Scientist and Economist in San Francisco, CA. A little bit about me:
+Hi 👋 I'm Mai, a Data Scientist & Economist based in San Francisco, CA.
 
-* Master’s degree in Business Analytics and Economics with 3+ years of experience in business intelligence, product growth, marketing strategy, customer journey analytics in various industries: e-commerce, consumer packaged goods, technology, education, and digital marketplaces
+🎓 **Background**
 
-* My favorite languages besides English and Vietnamese: SQL, Python, R, and Tableau for data modeling, ETL automation, and dashboard development
+Master’s degrees in Business Analytics and Economics
 
-* My favorite activities: A/B testing, experimentation design, causal inference, and machine learning (Linear & Logistic Regression, Random Forest, Gradient Boosting, K-Means, NLP, Neural Network)
+3+ years of experience in business intelligence, product growth, marketing strategy, and customer journey analytics across industries: e-commerce, CPG, technology, education, and digital marketplaces
 
-* What I do on the weekends: instagram.com/DobbyOnTheGo
+💻 **Technical Toolbox**
+
+Languages & Tools: SQL, Python, R, Tableau
+
+Core Skills: data modeling, ETL automation, dashboard development
+
+Specialties: A/B testing, experimental design, causal inference, and machine learning (Regression, Random Forest, Gradient Boosting, K-Means, NLP, Neural Networks)
+
+🌱 **Outside of Work**
+
+Exploring new places with my rescue dog 🐶  [![Instagram Badge](https://img.shields.io/badge/-@dobby.onthego-pink?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/dobby.onthego)
+
+
+Always learning — whether through data, travel, or getting cultured through cooking
 
 
 ## Github Stats
