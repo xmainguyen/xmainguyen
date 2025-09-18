@@ -22,12 +22,12 @@ Core Skills: data modeling, ETL automation, dashboard development
 
 Specialties: A/B testing, experimental design, causal inference, and machine learning (Regression, Random Forest, Gradient Boosting, K-Means, NLP, Neural Networks)
 
-🌱 **Outside of Work**
+🚴 **Outside of Work**
 
-Exploring new places with my rescue dog 🐶  [![Instagram Badge](https://img.shields.io/badge/-@dobby.onthego-pink?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/dobby.onthego)
+Cycling to new places with my rescue dog 🐶  [![Instagram Badge](https://img.shields.io/badge/-@dobby.onthego-DD2A7B?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/dobby.onthego)
 
 
-Always learning — whether through data, travel, or getting cultured through cooking
+Always learning — whether through data, travel, or exploring new cultures through food
 
 
 ## Github Stats
@@ -35,7 +35,6 @@ Always learning — whether through data, travel, or getting cultured through co
 
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmainguyen&layout=compact)
 
-## Support Me
-I'm sharing some of my work here and if it helps you, I'd love it if you'd consider supporting me.
+## Coffee Chat with Me
+Chat about life and work with me  [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-☕-brown?style=flat&logo=googlecalendar&logoColor=white)](https://calendar.app.google/8XBUEKdCZgpz1XqE8)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/stphnwlsh)
