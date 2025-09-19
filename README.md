@@ -12,7 +12,7 @@ Hi 👋 I'm **Mai**, a Data Scientist & Economist based in San Francisco, CA.
 
 Master’s degrees in Business Analytics and Economics
 
-3+ years of experience in business intelligence, product growth, marketing strategy, and customer journey analytics across industries: e-commerce, CPG, technology, education, and digital marketplaces
+4+ years of experience in business intelligence, product growth, marketing strategy, and customer journey analytics across industries: e-commerce, CPG, technology, education, and digital marketplaces
 
 💻 **Technical Toolbox**
 
