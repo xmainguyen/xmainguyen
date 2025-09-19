@@ -28,11 +28,11 @@ Cycling to new places with my rescue dog 🐶  [![Instagram Badge](https://img.s
 
 Always learning — whether through data, travel, or exploring new cultures through food
 
+## Coffee Chat with Me
+Chat about life and work with me  [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-%E2%98%95-yellow?style=flat&logoColor=white)](https://calendar.app.google/8XBUEKdCZgpz1XqE8)
+
 ## Github Stats
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmainguyen&show_icons=true)
 
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmainguyen&layout=compact)
-
-## Coffee Chat with Me
-Chat about life and work with me  [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-☕-brown?style=flat&logo=googlecalendar&logoColor=white)](https://calendar.app.google/8XBUEKdCZgpz1XqE8)
 
