@@ -6,7 +6,7 @@
 
 
 ## About Me
-Hi 👋 I'm Mai, a Data Scientist & Economist based in San Francisco, CA.
+Hi 👋 I'm **Mai**, a Data Scientist & Economist based in San Francisco, CA.
 
 🎓 **Background**
 
