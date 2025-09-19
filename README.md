@@ -26,9 +26,7 @@ Specialties: A/B testing, experimental design, causal inference, and machine lea
 
 Cycling to new places with my rescue dog 🐶  [![Instagram Badge](https://img.shields.io/badge/-@dobby.onthego-DD2A7B?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/dobby.onthego)
 
-
 Always learning — whether through data, travel, or exploring new cultures through food
-
 
 ## Github Stats
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmainguyen&show_icons=true)
