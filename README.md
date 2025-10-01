@@ -6,7 +6,9 @@
 
 
 ## About Me
-Hi 👋 I'm **Mai**, a Data Scientist & Economist based in San Francisco, CA.
+Hi 👋 I'm **Mai**, a Data Scientist & Economist based in San Francisco, CA. 
+
+🚀 [Check out my portfolio of projects](https://xmainguyen.github.io/projects/)
 
 🎓 **Background**
 
