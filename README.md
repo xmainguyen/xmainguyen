@@ -6,23 +6,35 @@
 
 
 ## About Me
-I'm a Data Scientist and Economist in San Francisco, CA. A little bit about me:
+Hi 👋 I'm **Mai**, a Data Scientist & Economist based in San Francisco, CA. 
 
-* Master’s degree in Business Analytics and Economics with 3+ years of experience in business intelligence, product growth, marketing strategy, customer journey analytics in various industries: e-commerce, consumer packaged goods, technology, education, and digital marketplaces
+🚀 [Check out my portfolio of projects](https://xmainguyen.github.io/projects/)
 
-* My favorite languages besides English and Vietnamese: SQL, Python, R, and Tableau for data modeling, ETL automation, and dashboard development
+🎓 **Background**
 
-* My favorite activities: A/B testing, experimentation design, causal inference, and machine learning (Linear & Logistic Regression, Random Forest, Gradient Boosting, K-Means, NLP, Neural Network)
+Master’s degrees in Business Analytics and Economics
 
-* What I do on the weekends: instagram.com/DobbyOnTheGo
+4+ years of experience in business intelligence, product growth, marketing strategy, and customer journey analytics across industries: e-commerce, CPG, technology, education, and digital marketplaces
 
+💻 **Technical Toolbox**
+
+Languages & Tools: SQL, Python, R, Tableau
+
+Core Skills: data modeling, ETL automation, dashboard development
+
+Specialties: A/B testing, experimental design, causal inference, and machine learning (Regression, Random Forest, Gradient Boosting, K-Means, NLP, Neural Networks)
+
+🚴 **Outside of Work**
+
+Cycling to new places with my rescue dog 🐶  [![Instagram Badge](https://img.shields.io/badge/-@dobby.onthego-DD2A7B?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/dobby.onthego)
+
+Always learning — whether through data, travel, or exploring new cultures through food
+
+## Coffee Chat with Me
+Chat about life and work with me  [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-%E2%98%95-yellow?style=flat&logoColor=white)](https://calendar.app.google/8XBUEKdCZgpz1XqE8)
 
 ## Github Stats
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmainguyen&show_icons=true)
 
 ![Mai's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xmainguyen&layout=compact)
 
-## Support Me
-I'm sharing some of my work here and if it helps you, I'd love it if you'd consider supporting me.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/stphnwlsh)
